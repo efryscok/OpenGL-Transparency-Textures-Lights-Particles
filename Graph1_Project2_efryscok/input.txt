@@ -1,0 +1,4 @@
+numberOfPlanes: 250
+speedOfPlanes: 5.0
+emitterLifetimeMin: 0.1
+emitterLifetimeMax: 1.0
